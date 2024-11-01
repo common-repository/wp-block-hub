@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Block Hub\n"
+"POT-Creation-Date: 2019-07-20 11:35+0600\n"
+"PO-Revision-Date: 2019-07-20 11:35+0600\n"
+"Last-Translator: \n"
+"Language-Team: PickPlugins\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: menu/block-search.php\n"
+"X-Poedit-SearchPath-2: functions/functions.php\n"
+"X-Poedit-SearchPath-3: classes/class-settings.php\n"
+
+#: classes/class-post-meta-boxes.php:31
+msgid "Block Info"
+msgstr ""
+
+#: classes/class-post-meta-boxes.php:51 menu/settings.php:43
+msgid "<i class=\"fas fa-laptop-code\"></i> General"
+msgstr ""
+
+#: classes/class-post-meta-boxes.php:59
+msgid "<i class=\"fas fa-box-open\"></i> Contribute"
+msgstr ""
+
+#: classes/class-post-types.php:26
+msgid "Block Group"
+msgstr ""
+
+#: classes/class-post-types.php:27
+msgid "Block Groups"
+msgstr ""
+
+#: classes/class-post-types.php:40
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: classes/class-post-types.php:41
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: classes/class-post-types.php:42
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: classes/class-post-types.php:43
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: classes/class-post-types.php:44
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: classes/class-post-types.php:45
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: classes/class-post-types.php:46
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: classes/class-post-types.php:47
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: classes/class-settings-tabs.php:148
+msgid "Upload"
+msgstr ""
+
+#: classes/class-settings-tabs.php:149
+msgid "Clear"
+msgstr ""
+
+#: classes/class-settings-tabs.php:262 classes/class-settings-tabs.php:514
+msgid "Add"
+msgstr ""
+
+#: classes/class-settings.php:17 menu/block-search.php:24
+msgid "WP Block Hub"
+msgstr ""
+
+#: classes/class-settings.php:20
+msgid "Settings"
+msgstr ""
+
+#: classes/class-settings.php:22
+msgid "Blocks"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:29
+msgid "Plugin Name"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:30
+msgid "Write plugin name here."
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:38
+msgid "Plugin zip file url or wordpress.org plugin url"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:39
+msgid ""
+"Plugin download link here, plugin slug name should match with directory name."
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:47
+msgid "Plugin is free or paid?"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:48
+msgid "Choose is plugin is paid or free."
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:53
+msgid "Free"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:54
+msgid "Paid"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:66
+msgid "Plugins required"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:67
+msgid "List of plugin required for this block"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:82
+msgid "Preview Image"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:83
+msgid ""
+"Add a preview image url. <br>You can use <a href=\"https://imgur.com/upload"
+"\">https://imgur.com/upload</a> to uplaod image and provide file((.png ."
+"jpeg, .jpg .gif)) link here.<br>Please do not use localhost URL"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:93
+msgid "Design Source"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:94
+msgid ""
+"Please write here details about design source. please provide any copyright "
+"text if needed."
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:108
+msgid "Tags"
+msgstr ""
+
+#: functions/functions-wp-block-metabox-hooks.php:109
+msgid "Add some tags, use comma(,) separated."
+msgstr ""
+
+#: functions/functions-wpblockhub-settings-hooks.php:30
+msgid "API key"
+msgstr ""
+
+#: functions/functions-wpblockhub-settings-hooks.php:31
+msgid ""
+"Get your api key <a target=\"_blank\" href=\"https://wpblockhub.com/api-key/"
+"\">here</a>. API is free and we use API to manage your submission on our "
+"site."
+msgstr ""
+
+#: functions/functions.php:47 functions/functions.php:240
+#: functions/functions.php:432 functions/functions.php:524
+msgid "There is a server error"
+msgstr ""
+
+#: functions/functions.php:64 menu/block-search.php:93
+msgid "No title"
+msgstr ""
+
+#: functions/functions.php:103
+msgid "Save to reusable blocks"
+msgstr ""
+
+#: functions/functions.php:113 menu/block-search.php:157
+msgid "See details"
+msgstr ""
+
+#: functions/functions.php:119 menu/block-search.php:163
+msgid "Plugins required:"
+msgstr ""
+
+#: functions/functions.php:137 menu/block-search.php:206
+msgid "No 3rd party plugin required."
+msgstr ""
+
+#: functions/functions.php:164 menu/block-search.php:255
+msgid "Download:"
+msgstr ""
+
+#: functions/functions.php:171 menu/block-search.php:262
+msgid "Author:"
+msgstr ""
+
+#: menu/block-search.php:30
+msgid "Latest"
+msgstr ""
+
+#: menu/block-search.php:31
+msgid "Popular"
+msgstr ""
+
+#: menu/block-search.php:32
+msgid "Top Rated"
+msgstr ""
+
+#: menu/block-search.php:37
+msgid "Start typing..."
+msgstr ""
+
+#: menu/block-search.php:64
+msgid "Unexpected Error! The query returned with an error."
+msgstr ""
+
+#: menu/block-search.php:65
+msgid "Make sure your internet connection is up."
+msgstr ""
+
+#: menu/settings.php:19
+msgid "Changes Saved."
+msgstr ""
+
+#: menu/settings.php:63
+msgid "WP Block Hub - Settings"
+msgstr ""
+
+#: menu/settings.php:110
+msgid "Save Changes"
+msgstr ""

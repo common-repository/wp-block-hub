@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wpblockhub-paragraph{}
+
+.wpblockhub-paragraph.dropcap{
+
+}
+
+.wpblockhub-paragraph.dropcap:first-letter {
+    font-size: 40px;
+    vertical-align: -webkit-baseline-middle;
+    display: inline-block;
+}
